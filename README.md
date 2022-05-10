@@ -11,7 +11,7 @@ The use of this application is pretty simple:
 4. To **clear** the canvas, press **R**.
 5. To **save** the dataset, press **S**.
 
-You can find the generated Dataset in the same directory where the XANDO.exe is placed. The generated file (Data Y-M-D-HMS.txt) contains comma separated values (X1, X2, y) for each point of the Dataset. It can be directly loaded to matlab via using *load()* function.
+You can find the generated Dataset in the same directory where the XANDO.exe is placed. The generated file (Data Y-M-D-HMS.txt) contains comma separated values (X1, X2, y) for each point of the Dataset. It can be directly loaded to matlab using *load()* function.
 
 ## Where to find it?
 you can download it from Google Drive:
